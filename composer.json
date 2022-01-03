@@ -1,21 +1,15 @@
 {
     "name": "supplyhog/yii2-clipboardjs",
-    "authors": [
-        {
-            "name": "Wil Wade",
-            "email": "wil@supplyhog.com"
-        }
-    ],
     "license": "BSD-3-Clause",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
-        "php" : ">=5.4.0",
+        "php" : ">=8.0",
         "yiisoft/yii2" : "*",
         "bower-asset/clipboard": "^1.5"
     },
     "autoload": {
         "psr-4": {
-             "supplyhog\\ClipboardJs\\" : "src"
+             "metola\\ClipboardJs\\" : "src"
         }
     }
 }
