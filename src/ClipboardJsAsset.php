@@ -1,6 +1,6 @@
 <?php
 
-namespace supplyhog\ClipboardJs;
+namespace metola\ClipboardJs;
 
 use yii\web\AssetBundle;
 use yii\web\View;
