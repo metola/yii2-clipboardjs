@@ -1,5 +1,5 @@
 {
-    "name": "supplyhog/yii2-clipboardjs",
+    "name": "metola/yii2-clipboardjs",
     "license": "BSD-3-Clause",
     "minimum-stability": "stable",
     "require": {
