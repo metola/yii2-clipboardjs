@@ -1,6 +1,6 @@
 <?php
 
-namespace supplyhog\ClipboardJs;
+namespace metola\ClipboardJs;
 
 use yii\base\InvalidConfigException;
 use yii\base\Widget;
